@@ -2371,7 +2371,7 @@ img {
 #title-contact {
     position: absolute;
     top: 0;
-    margin-left: -920px;
+    margin-left: -520px;
     width: 980px;
     height: 756px;
     background-image: url(image/title-contact.png)
@@ -2406,7 +2406,7 @@ img {
 }
 
 #title-robby {
-    left: 0;
+    left: 200px;
     bottom: 100px;
     width: 840px;
     height: 325px;
